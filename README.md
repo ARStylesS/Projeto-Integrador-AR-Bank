@@ -16,3 +16,6 @@ Funcionalidades secundárias do projeto:
 4. Consulta de cotação de moedas estrangeiras (abre um link externo)
 
 Esse projeto será feito com React Native (incluindo HTML, CSS e JavaScript) para criar uma aplicação mobile funcional
+
+Dashboard do Projeto feito no Figma:
+https://www.figma.com/design/wI1IrLNZYZpZm3jlP7f3vE/ARBank---Transfer%C3%AAncias-Banc%C3%A1rias?node-id=0-1&t=fydsYEml5I9WPz6t-1
